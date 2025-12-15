@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 Ссылка на репозиторий фронтенда: https://github.com/roboticlongcat/web-application-development_insulin-calc_frontend
 
-Ссылка на репозиторий асинхронного сервиса на Python: https://github.com/roboticlongcat/web-application-development_insulin-calc_asyncservice
+Ссылка на репозиторий асинхронного сервиса на Python: https://github.com/roboticlongcat/web-application-development_insulin-calc_async-service
 
 Ссылка на GitHub Pages: https://roboticlongcat.github.io/web-application-development_insulin-calc_frontend/
 
